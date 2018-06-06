@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [        
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "kursus",
+            "server": "https://udvikling-nav2018-r4-w1.bdchosting.dk",
+            "serverInstance": "BDCKursus_PAN_SLN",
+            "authentication": "UserPassword",
+            "port": 8049,
+            "startupObjectId": 22
+        }
+    ]
+}
